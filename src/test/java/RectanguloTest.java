@@ -8,6 +8,7 @@ import java.util.List;
 /**
  * Created by damian on 26/08/16.
  */
+
 public class RectanguloTest {
 
 
@@ -51,6 +52,4 @@ public class RectanguloTest {
 
         Assert.assertEquals(316, c.sumarAreasDeFiguras(rectangulos),0);
     }
-
-
 }

@@ -9,6 +9,10 @@ public class Par {
     public Par(int i, int i1) {
     }
 
+    public Par(String casa, int i1) {
+
+    }
+
     public int first() {
         return this.first;
     }
